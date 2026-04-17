@@ -5,7 +5,7 @@ MoodLens AI is an NLP-based emotion detection system that analyzes user text and
 ---
 
 ## 🚀 Live Demo
-🔗 [(Add your Streamlit link here)](https://moodlens-emotion-ai.streamlit.app/)
+🔗 https://moodlens-emotion-ai.streamlit.app/
 
 ---
 
